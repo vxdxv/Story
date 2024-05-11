@@ -1,1 +1,2 @@
 Hello chapter2
+New modifications in chapter2
